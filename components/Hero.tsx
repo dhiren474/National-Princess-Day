@@ -182,7 +182,7 @@ export default function Hero({ onOpenGift, isGiftOpened }: HeroProps) {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.2 }}
             >
-              Hey Princess! 💕
+              Hellu Rashu baby! 💕
             </motion.h1>
 
             <motion.div
@@ -192,8 +192,8 @@ export default function Hero({ onOpenGift, isGiftOpened }: HeroProps) {
               transition={{ delay: 0.4 }}
             >
               <p>
-                I Wanted to do something special for you, for this princess day,
-                so I made something special just for you...
+               I’ve been working on something just for you… something a little heartfelt, a little cheeky, and 100% from me. 💌
+               It’s a love letter, and I promise it’s worth your time. Curious enough to see what I wrote? 😉
               </p>
               <p className="pt-3">
                 <span className="font-semibold text-[#f04299]">
