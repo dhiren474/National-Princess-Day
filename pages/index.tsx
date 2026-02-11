@@ -83,7 +83,7 @@ export default function Home() {
 
         <footer className="px-4 py-8 text-center text-text/60">
           <p className="text-sm">
-            National Princess Day —{' '}
+            Rashubaby Day —{' '}
             {new Date().toLocaleDateString('en-US', {
               year: 'numeric',
               month: 'long',
