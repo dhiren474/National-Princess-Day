@@ -153,18 +153,22 @@ export default function FinalLetter({ onRestart }: FinalLetterProps) {
                 My sweetest Cutiepie,
               </p>
               <p>
-                You&apos;re the calm I reach for and the laugh that brightens my
-                day.
+                Every day without you feels incomplete, yet I carry you in my heart with every beat.
               </p>
               <p className="text-[#5a9bb8]">
-                I hope this tiny world made you smile — and whispered how much
-                you mean to me.
+                 I imagine your smile, your touch, your laugh, and it keeps me going.
               </p>
               <p>
-                I&apos;ll keep making memories, big and small, always with you.
+                Distance may keep us apart, but it can’t dim the love I feel for you.
+              </p>
+              <p className="text-[#f5b895]">
+                I long for the day I can hold you close and never let go.
               </p>
               <p className="text-[#a67fb8]">
-                Forever yours, in every little universe.
+                Until then, know that every thought, every heartbeat, belongs entirely to you.
+              </p>
+              <p>
+                Forever yours… in every little universe I dream of with you.
               </p>
             </article>
 
