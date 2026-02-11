@@ -20,24 +20,24 @@ interface Track {
 const tracks: Track[] = [
   {
     id: 1,
-    title: 'Dil Cheeze Tujhe Dedi',
+    title: 'Gehra hua',
     description: 'You own this heart — dedicated to you 💞',
     image: '/assets/music1.png',
-    audio: '/assets/music1-Bpgt1BZ5.mp3',
+    audio: '/assets/music1.mp3',
   },
   {
     id: 2,
-    title: 'If the world was ending',
-    description: "Even if the world ends, I'd still find you 🤍",
+    title: 'Barbaad',
+    description: "Ki ho naa jae pyaar tum se muje, kar degaa barbaad ishq muje🤍",
     image: '/assets/music2.png',
-    audio: '/assets/music2-mdcMq3L1.mp3',
+    audio: '/assets/music2.mp3',
   },
   {
     id: 3,
-    title: 'Dil ka Jo Haal hai',
-    description: 'Tu Kaare Dil Bekarar 💞',
+    title: 'othaiyadi Pathayila',
+    description: 'My Kanmaniyae 💞',
     image: '/assets/music3.png',
-    audio: '/assets/music3-ClPh4k2q.mp3',
+    audio: '/assets/music3.mp3',
   },
 ];
 
