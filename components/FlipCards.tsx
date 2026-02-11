@@ -19,24 +19,24 @@ interface Card {
 const cards: Card[] = [
   {
     id: 1,
-    image: '/assets/pic1.png',
-    message: 'I Love u Divya 💕',
+    image: '/assets/image1.png',
+    message: 'I Love u Kanmani babu💕',
     gradient: 'from-pink-200 to-purple-200',
     delay: 0,
   },
   {
     id: 2,
-    image: '/assets/pic2.png',
+    image: '/assets/image2.png',
     message:
-      "You don't even have to try — you just make everything around you feel lighter, warmer, better. ✨",
+      "No distance can dim the love I feel for you; every heartbeat, every sigh, belongs only to you, always ✨",
     gradient: 'from-blue-200 to-teal-200',
     delay: 0.2,
   },
   {
     id: 3,
-    image: '/assets/pic3.png',
+    image: '/assets/image3.png',
     message:
-      "The little things you do — your expressions, your laughter, the way you talk — they've all become my favorite details. 🌸",
+      "Your love reaches me across oceans and skies, wrapping my heart in warmth, longing, and endless devotion to you.🌸",
     gradient: 'from-yellow-200 to-orange-200',
     delay: 0.4,
   },
